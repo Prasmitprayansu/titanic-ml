@@ -251,10 +251,10 @@ This project is open source and available under the **MIT License** (see LICENSE
 
 ## 📞 Contact & Support
 
-- **Author:** [Your Name]
-- **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- **LinkedIn:** [Your LinkedIn URL]
-- **Kaggle:** [Your Kaggle Profile]
+- **Author:** Prasmit Prayansu
+- **GitHub:** [Prasmitprayansu](https://github.com/Prasmitprayansu)
+- **LinkedIn:** www.linkedin.com/in/prasmit-prayansu
+- **Kaggle:** [prasmitprayansu2201](https://www.kaggle.com/prasmitprayansu2201)
 
 ---
 
