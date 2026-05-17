@@ -258,13 +258,4 @@ This project is open source and available under the **MIT License** (see LICENSE
 
 ---
 
-## 📌 Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| v1.0 | 2026-05-02 | Initial release with Random Forest & Gradient Boosting |
-| — | — | — |
-
----
-
 **⭐ If you found this helpful, please star the repository! It helps others discover the project.**
