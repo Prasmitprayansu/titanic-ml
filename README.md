@@ -223,18 +223,6 @@ stacking = StackingClassifier(estimators=[...], final_estimator=meta_learner)
 
 ---
 
-## 🤝 Contributing
-
-Improvements welcome! Ideas:
-- [ ] Add LightGBM/XGBoost comparison
-- [ ] Create visualization dashboard
-- [ ] Add SHAP interpretability section
-- [ ] Implement stacking ensemble
-- [ ] Add cross-validation visualizations
-- [ ] Write unit tests for preprocessing
-
----
-
 ## 📝 License
 
 This project is open source and available under the **MIT License** (see LICENSE file).
